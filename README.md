@@ -15,8 +15,7 @@ The datasets are not included in this repository for space reasons. They can be 
 
 ## II - INSTALLATION AND SOFTWARE REQUIREMENTS
 In order to be able to run the notebook you need to install several packages:
-  * python 2.7 or higher
-    - Installation : Should be installed, use the command line `python -V` to get the installed version or visit https://www.python.org/
+  * python 2.7 or higher, 3.7 or higher (https://www.python.org/)
   * numpy,scipy,matplotlib, different scientific packages for python  (http://www.numpy.org, http://www.scipy.org, http://matplotlib.org)
   * jupyter notebook, a open-source framework to share code (http://jupyter.org)
 
