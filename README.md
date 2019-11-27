@@ -4,7 +4,7 @@ This repository contains the notebook that was used to generate most of the figu
 
 **It is important to notice that the notebook will not work without the datasets that should be manually included in the folder Data**
 
-The datasets are not included in this repository for space reasons. They can be accessed and downloaded at XXXXX.
+The datasets are not included in this repository for space reasons. They can be accessed and downloaded at https://figshare.com/s/765d4361d1b073beedd5.
 
 ## I - CONTENTS OF THE  REPOSITORY
   - ASTEC-JupyterNotebook.ipynb: the notebook which expose some examples on how to handle t
