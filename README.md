@@ -1,4 +1,4 @@
-# ASTEC-figures
+# ASTEC-examples
 
 This repository contains the notebook that was used to generate most of the figures of the following article: [Contact-dependent cell communications drive morphological invariance during ascidian embryogenesis](https://www.biorxiv.org/content/early/2017/12/24/238741)
 
@@ -20,7 +20,7 @@ In order to be able to run the notebook you need to install several packages:
   * numpy,scipy,matplotlib, different scientific packages for python  (http://www.numpy.org, http://www.scipy.org, http://matplotlib.org)
   * jupyter notebook, a open-source framework to share code (http://jupyter.org)
 
-## III - RUNNING ASTEC-figures
+## III - RUNNING ASTEC-examples
 The code is written in python and can easly be run with a web interface using a Notebook (http://jupyter.org). 
 
 You can find a user interface tutorial here (http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
