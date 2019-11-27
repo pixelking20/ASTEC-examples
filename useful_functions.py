@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ###########################################################################
 ###########################################################################
 ## Copyright (C) 2018  Guignard Leo <guingardl__@__janelia.hhmi.org>     ##
@@ -19,7 +17,6 @@
 ###########################################################################
 ###########################################################################
 
->>>>>>> b209aa4fd9392c84b7e4c59190dea6f166c4a6a5
 import numpy as np
 from matplotlib import pyplot as plt
 import os
@@ -139,8 +136,8 @@ def plot_around_div(vals, lin_tree, inv_lin_tree, interest_cells, names, col=6, 
         interest_cells_f = [c for c in interest_cells if int(names.get(c).split('.')[0][1:]) == z_c]
         for c in interest_cells_f:
             Yb, Yfs1, Yfs2 = get_values_around_division(c, vals, around, lin_tree, inv_lin_tree)
-            Xb = range(-len(Yb)*2+2, 2, 2)
-            Xe = range(0, max(len(Yfs1), len(Yfs2))*2, 2)
+            Xb = list(range(-len(Yb)*2+2, 2, 2))
+            Xe = list(range(0, max(len(Yfs1), len(Yfs2))*2, 2))
             Y = Yb
             Y1 = Yfs1
             ax.plot(Xe, Y1, '-', alpha=.2, color='k')
@@ -171,7 +168,7 @@ def plot_around_div(vals, lin_tree, inv_lin_tree, interest_cells, names, col=6, 
             ax.plot(Xb, np.percentile(whole, 10, axis=0), 'r--', lw=2, label='10% and 90%')
             ax.plot(Xb, np.percentile(whole, 90, axis=0), 'r--', lw=2)
             
-            X=range(0, len(whole_sis[0])*2, 2)
+            X=list(range(0, len(whole_sis[0])*2, 2))
             whole_sis = np.array(whole_sis)
             ax.plot(Xe, np.median(whole_sis, axis=0), 'r-', lw=3)
             ax.plot(Xe, np.percentile(whole_sis, 10, axis=0), 'r--', lw=2)
@@ -184,7 +181,7 @@ def plot_around_div(vals, lin_tree, inv_lin_tree, interest_cells, names, col=6, 
             ax.plot(Xb, np.percentile(whole, 10, axis=0), 'r--', lw=2)
             ax.plot(Xb, np.percentile(whole, 90, axis=0), 'r--', lw=2)
             
-            X=range(0, len(whole_sis[0])*2, 2)
+            X=list(range(0, len(whole_sis[0])*2, 2))
             whole_sis = np.array(whole_sis)
             ax.plot(Xe, np.median(whole_sis, axis=0), 'r-', lw=3)
             ax.plot(Xe, np.percentile(whole_sis, 10, axis=0), 'r--', lw=2)
@@ -233,20 +230,20 @@ def build_distance_matrix(tree_distances, size=64):
     corres = {}
     index = 0
     X = np.zeros((size, size))
-    for c1, c2 in tree_distances.keys():
+    for c1, c2 in list(tree_distances.keys()):
         if c1<c2:
-            if not corres.has_key(c1):
+            if c1 not in corres:
                 corres[c1] = index
                 index += 1
-            if not corres.has_key(c2):
+            if c2 not in corres:
                 corres[c2] = index
                 index += 1
 
-    corres_inv={v:k for k, v in corres.iteritems()}
+    corres_inv={v:k for k, v in corres.items()}
     for i in range(max(corres.values())+1):
         for j in range(i+1, max(corres.values())+1):
             c1, c2=corres_inv[i], corres_inv[j]
-            if tree_distances.has_key((c1, c2)):
+            if (c1, c2) in tree_distances:
                 X[i, j]=tree_distances[(c1, c2)]
                 X[j, i]=tree_distances[(c1, c2)]
             else:
@@ -458,16 +455,16 @@ def generate_32_cell_stage(lin_tree, names, inv_lin_tree, sim_tree, sim_nv, vol)
     new_names = deepcopy(names)
     new_vol = deepcopy(vol)
     new_sim_nv = deepcopy(sim_nv)
-    cells = [k for k in lin_tree.keys() if k/10**4==1]
+    cells = [k for k in list(lin_tree.keys()) if k/10**4==1]
     i = 1
     for c in cells:
         if int(names[c].split('.')[1][:-1])%2==1:
             s_n = get_sister_name(names[c])
             for ci in cells:
                 if names[ci] == s_n:
-                    if not inv_lin_tree.has_key(c):
+                    if c not in inv_lin_tree:
                         new_lin_tree[i] = [c, ci]
-                    if sim_tree.has_key((new_lin_tree[c][0], new_lin_tree[ci][0])):
+                    if (new_lin_tree[c][0], new_lin_tree[ci][0]) in sim_tree:
                         new_sim_nv[i] = sim_tree[(new_lin_tree[c][0], new_lin_tree[ci][0])]
                     else:
                         new_sim_nv[i] = sim_tree[(new_lin_tree[ci][0], new_lin_tree[c][0])]
@@ -536,14 +533,14 @@ def compute_neighbors_stability(c, lin_tree, surf_ex, fates, surfaces, inv_lin_t
     for curr_c in cell_cycle:
         surface_evolution[t] = {}
         total_surf_evolution[t] = 0
-        for neighbor, s in surf_ex.get(curr_c, {}).iteritems():
+        for neighbor, s in surf_ex.get(curr_c, {}).items():
             neighbors_correspondancy[neighbor] = neighbors_correspondancy.get(inv_lin_tree.get(neighbor), neighbor)
             to_treat = neighbors_correspondancy[neighbor]
             if fates.get(to_treat, 'undeter') == cell_fate and s/surfaces[curr_c]>th:
                 surface_evolution[t][to_treat] = surface_evolution[t].get(to_treat, 0) + s
         t += 1
 
-    neighbs = np.array([vi for v in surface_evolution.values() for vi in v.keys()])
+    neighbs = np.array([vi for v in list(surface_evolution.values()) for vi in list(v.keys())])
     presence = nd.sum(np.ones_like(neighbs), neighbs, np.unique(neighbs))/len(cell_cycle)
     nb_lost = np.sum((th_presence < presence) & (presence < 1 - th_presence))
     return np.sum(th_presence < presence), float(nb_lost)/max(1, np.sum(th_presence < presence))

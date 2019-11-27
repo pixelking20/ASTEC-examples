@@ -4,7 +4,7 @@ class ColorMap(object):
         values = sorted(values)
         if None in values: values.remove(None)        
         if all([isinstance(i, int) for i in values]):
-            self.values = range(values[0], values[-1]+1)
+            self.values = list(range(values[0], values[-1]+1))
             self.cmap = plt.cm.get_cmap(cmap, len(self.values))
         elif all([isinstance(i, float) for i in values]):
             self.values = None   
