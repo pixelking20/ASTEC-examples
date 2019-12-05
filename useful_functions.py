@@ -239,7 +239,7 @@ def build_distance_matrix(tree_distances, size=64):
                 corres[c2] = index
                 index += 1
 
-    corres_inv={v:k for k, v in corres.items()}
+    corres_inv={v:k for k, v in list(corres.items())}
     for i in range(max(corres.values())+1):
         for j in range(i+1, max(corres.values())+1):
             c1, c2=corres_inv[i], corres_inv[j]
@@ -533,7 +533,7 @@ def compute_neighbors_stability(c, lin_tree, surf_ex, fates, surfaces, inv_lin_t
     for curr_c in cell_cycle:
         surface_evolution[t] = {}
         total_surf_evolution[t] = 0
-        for neighbor, s in surf_ex.get(curr_c, {}).items():
+        for neighbor, s in list(surf_ex.get(curr_c, {}).items()):
             neighbors_correspondancy[neighbor] = neighbors_correspondancy.get(inv_lin_tree.get(neighbor), neighbor)
             to_treat = neighbors_correspondancy[neighbor]
             if fates.get(to_treat, 'undeter') == cell_fate and s/surfaces[curr_c]>th:
