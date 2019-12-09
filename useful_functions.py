@@ -109,7 +109,10 @@ def read_property_file(path):
     ext = path.split(os.path.extsep)[-1]
     if ext == 'pkl':
         with open(path, 'rb') as f:
-            properties = pkl.load(f, encoding='latin1')
+            if sys.version_info[0] < 3:
+                properties = pkl.load(f)
+            else:
+                properties = pkl.load(f, encoding='latin1')
             f.close()
     else:
         properties = xml2dict(path)
@@ -546,7 +549,7 @@ def generate_32_cell_stage(lin_tree, names, inv_lin_tree, sim_tree, sim_nv, vol)
     new_names = deepcopy(names)
     new_vol = deepcopy(vol)
     new_sim_nv = deepcopy(sim_nv)
-    cells = [k for k in list(lin_tree.keys()) if k/10**4==1]
+    cells = [k for k in list(lin_tree.keys()) if k//10**4==1]
     i = 1
     for c in cells:
         if int(names[c].split('.')[1][:-1])%2==1:
