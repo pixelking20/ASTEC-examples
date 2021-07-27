@@ -1,10 +1,10 @@
 # ASTEC-examples
 
-This repository contains the notebook that was used to generate most of the figures of the following article: [Contact-dependent cell communications drive morphological invariance during ascidian embryogenesis](https://www.biorxiv.org/content/early/2017/12/24/238741)
+This repository contains the notebook that was used to generate most of the figures of the following article: [Contact area–dependent cell communication and the morphological invariance of ascidian embryogenesis](https://science.sciencemag.org/content/369/6500/eaar5663)
 
 **It is important to notice that the notebook will not work without the datasets that should be manually included in the folder Data**
 
-The datasets are not included in this repository for space reasons. They can be accessed and downloaded at https://figshare.com/s/765d4361d1b073beedd5.
+The datasets are not included in this repository for space reasons. They can be accessed and downloaded at https://figshare.com/collections/Contact-area_dependent_cell_communications_and_the_morphological_invariance_of_ascidian_embryogenesis/4529990/2.
 
 ## I - CONTENTS OF THE  REPOSITORY
   - ASTEC-JupyterNotebook.ipynb: the notebook which expose some examples on how to handle t
@@ -16,7 +16,7 @@ The datasets are not included in this repository for space reasons. They can be 
 ## II - INSTALLATION AND SOFTWARE REQUIREMENTS
 In order to be able to run the notebook you need to install several packages:
   * python 2.7 or higher, 3.7 or higher (https://www.python.org/)
-  * numpy,scipy,matplotlib, different scientific packages for python  (http://www.numpy.org, http://www.scipy.org, http://matplotlib.org)
+  * numpy,scipy,matplotlib, different scientific packages for python (http://www.numpy.org, http://www.scipy.org, http://matplotlib.org)
   * jupyter notebook, a open-source framework to share code (http://jupyter.org)
 
 ## III - RUNNING ASTEC-examples
