@@ -1,0 +1,724 @@
+Beginning CellID,Mother_CellID,Child1_CellID,Child2_CellID,Life of mother in t,the name of the Beginning cell,fate 1 of the Beginning cell,fate 2 of the Beginning cell,fate 3 of the Begining cell
+10002,90002,100002,100003,9,a7.0003_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+10003,320004,330004,330005,32,a7.0005_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10004,340006,350006,350007,34,a7.0002_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10005,80006,90006,90007,8,a7.0008_,0,0,0
+10006,80007,90008,90009,8,a7.0004_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+10007,180010,190010,190011,18,a7.0006_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+10008,150012,160011,160012,15,a7.0009_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+10009,100013,110014,110015,10,a7.0003*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+10010,350018,360022,360023,35,a7.0001_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10011,340018,350019,350020,34,a7.0002*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10012,110018,120018,120019,11,b7.0003_,0,0,0
+10013,150019,160019,160020,15,a7.0010_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+10014,80015,90017,90018,8,a7.0004*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+10015,180024,190025,190026,18,b7.0009_,0,0,0
+10016,340026,350028,350029,34,a7.0001*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10017,170026,180026,180027,17,a7.0013_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+10018,350032,360037,360038,35,b7.0001_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+10019,190032,200034,200035,19,b7.0010_,0,0,0
+10020,160029,170030,170031,16,a7.0010*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+10021,100026,110028,110029,10,b7.0004_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+10022,100027,110030,110031,10,a7.0007*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+10023,330039,340038,340039,33,a7.0005*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+10024,360136,370143,370144,36,b7.0001*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+10025,180042,190043,190044,18,b7.0011_,0,0,Tail Epidermis
+10026,150037,160038,160039,15,a7.0011_,Head Epidermis,Trunk Epidermis,Head Epidermis
+10027,400063,410061,410062,40,b7.0007_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+10028,350049,360055,360056,35,b7.0002_,0,Posterior Endoderm,0
+10029,160043,170045,170046,16,a7.0009*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+10030,180049,190051,190052,18,b7.0012_,0,0,Tail Epidermis
+10031,160045,170048,170049,16,a7.0014_,Head Epidermis,Trunk Epidermis,Head Epidermis
+10032,80034,90037,90038,8,a7.0008*,0,0,0
+10035,100040,110045,110046,10,b7.0003*,0,0,0
+10036,180056,190059,190060,18,a7.0006*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+10038,160051,170055,170056,16,a7.0011*,Head Epidermis,Trunk Epidermis,Head Epidermis
+10039,200065,210064,210065,20,b7.0008_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+10040,360074,370078,370079,36,b7.0002*,0,Posterior Endoderm,0
+10042,170091,180061,180100,17,a7.0012_,Head Epidermis,Trunk Epidermis,Head Epidermis
+10043,390089,400093,400094,39,b7.0005_,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+10044,190067,200069,200070,19,b7.0013_,0,0,Tail Epidermis
+10045,160057,170062,170063,16,a7.0013*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+10046,170064,180066,180067,17,a7.0015_,Head Epidermis,Trunk Epidermis,Head Epidermis
+10048,180068,190072,190073,18,b7.0015_,Lateral Tail Epidermis,0,Tail Epidermis
+10049,160060,170066,170067,16,a7.0012*,Head Epidermis,Trunk Epidermis,Head Epidermis
+10050,400112,410112,410113,40,b7.0007*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+10051,190077,200080,200081,19,b7.0010*,0,0,0
+10052,90054,100055,100056,9,b7.0004*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+10053,170072,180075,180076,17,a7.0014*,Head Epidermis,Trunk Epidermis,Head Epidermis
+10054,170073,180077,180078,17,a7.0016_,Head Epidermis,Trunk Epidermis,Head Epidermis
+10055,880271,0,0,88,b7.0006_,Germ Line,germ line,Germ Line
+10056,180080,190085,190086,18,b7.0009*,0,0,0
+10057,880278,0,0,88,b7.0006*,Germ Line,germ line,Germ Line
+10058,180082,190088,190089,18,b7.0016_,0,0,0
+10059,380121,390125,390126,38,b7.0005*,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+10060,190091,200097,200098,19,b7.0012*,0,0,Tail Epidermis
+10061,180085,190092,190093,18,b7.0014*,0,0,Tail Epidermis
+10063,200101,210101,210102,20,b7.0014_,0,0,Tail Epidermis
+10064,170082,180088,180089,17,a7.0016*,Head Epidermis,Trunk Epidermis,Head Epidermis
+10065,170083,180090,180091,17,a7.0015*,Head Epidermis,Trunk Epidermis,Head Epidermis
+10066,190099,200106,200107,19,b7.0016*,0,0,0
+10068,190100,200108,200109,19,b7.0008*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+10069,180094,190101,190102,18,b7.0015*,Lateral Tail Epidermis,0,Tail Epidermis
+10070,190103,200113,200114,19,b7.0011*,0,0,Tail Epidermis
+10071,170088,180096,180097,17,b7.0013*,0,0,Tail Epidermis
+10082,100075,110079,110080,10,a7.0007_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+90006,370009,380009,380010,29,a8.0015_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+90007,350009,360010,360011,27,a8.0016_,0,0,0
+90008,350010,360012,360013,27,a8.0008_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+90009,350011,360014,360015,27,a8.0007_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+90017,360029,370029,370030,28,a8.0007*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+90018,370031,380033,380034,29,a8.0008*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+90037,360064,370066,370067,28,a8.0015*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+90038,350058,360065,360066,27,a8.0016*,0,0,0
+100002,500002,510002,510003,41,a8.0006_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+100003,480003,490003,490004,39,a8.0005_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+100055,280076,290077,290078,19,b8.0008*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+100056,290079,300078,300079,20,b8.0007*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+110014,500026,510027,510028,40,a8.0005*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+110015,500027,510029,510030,40,a8.0006*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+110028,300035,310032,310033,20,b8.0008_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+110029,300036,310034,310035,20,b8.0007_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+110030,520206,530209,530210,42,a8.0013*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+110031,500060,510063,510064,40,a8.0014*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+110045,490203,500204,500205,39,b8.0006*,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+110046,370070,380074,380075,27,b8.0005*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+110079,520202,530203,530204,42,a8.0013_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+110080,520203,530205,530206,42,a8.0014_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+120018,510216,520217,520222,40,b8.0006_,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+120019,380028,390028,390029,27,b8.0005_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+160011,470020,480020,480021,32,a8.0017_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+160012,440019,450021,450022,29,a8.0018_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+160019,450031,460031,460032,30,a8.0019_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+160020,430031,440031,440032,28,a8.0020_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+160038,360051,370052,370053,21,a8.0021_,Head Epidermis,Trunk Epidermis,Head Epidermis
+160039,360052,370054,370055,21,a8.0022_,Head Epidermis,Trunk Epidermis,Head Epidermis
+170030,470051,480052,480053,31,a8.0019*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+170031,440182,450187,450188,28,a8.0020*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+170045,460069,470071,470072,30,a8.0017*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+170046,470073,480075,480076,31,a8.0018*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+170048,380067,390068,390069,22,a8.0027_,Head Epidermis,Trunk Epidermis,Head Epidermis
+170049,370065,380068,380069,21,a8.0028_,Head Epidermis,Trunk Epidermis,Head Epidermis
+170055,370073,380078,380079,21,a8.0022*,Head Epidermis,Trunk Epidermis,Head Epidermis
+170056,360071,370074,370075,20,a8.0021*,Head Epidermis,Trunk Epidermis,Head Epidermis
+170062,510118,520119,520120,35,a8.0025*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+170063,460104,470107,470108,30,a8.0026*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+170066,370091,380098,380099,21,a8.0024*,Head Epidermis,Trunk Epidermis,Head Epidermis
+170067,370092,380100,380101,21,a8.0023*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180026,510049,520049,520050,34,a8.0025_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+180027,460044,470044,470045,29,a8.0026_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+180061,360075,370080,370081,19,a8.0023_,Head Epidermis,Trunk Epidermis,Head Epidermis
+180066,380094,390094,390095,21,a8.0029_,Head Epidermis,Trunk Epidermis,Head Epidermis
+180067,380095,390096,390097,21,a8.0030_,Head Epidermis,Trunk Epidermis,Head Epidermis
+180075,380109,390111,390112,21,a8.0027*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180076,370101,380110,380111,20,a8.0028*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180077,380112,390115,390116,21,a8.0031_,Head Epidermis,Trunk Epidermis,Head Epidermis
+180078,380113,390117,390118,21,a8.0032_,Head Epidermis,Trunk Epidermis,Head Epidermis
+180088,380129,390134,390135,21,a8.0031*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180089,380130,390136,390137,21,a8.0032*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180090,380131,390138,390139,21,a8.0029*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180091,380132,390140,390141,21,a8.0030*,Head Epidermis,Trunk Epidermis,Head Epidermis
+180096,380142,390153,390154,21,b8.0026*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+180097,380143,390155,390156,21,b8.0025*,0,0,Tail Epidermis
+180100,360130,370136,370137,19,a8.0024_,Head Epidermis,Trunk Epidermis,Head Epidermis
+190010,440016,450017,450018,26,a8.0012_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+190011,560019,570019,570020,38,a8.0011_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+190025,530045,540044,540045,35,b8.0017_,0,0,0
+190026,440037,450038,450039,26,b8.0018_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+190043,380053,390054,390055,20,b8.0021_,0,0,Tail Epidermis
+190044,390056,400057,400058,21,b8.0022_,0,0,Tail Epidermis
+190051,390066,400068,400069,21,b8.0024_,0,Mediolateral Tail Epidermis,Tail Epidermis
+190052,390067,400070,400071,21,b8.0023_,Medio-Lateral Tail Epidermis,0,Tail Epidermis
+190059,430081,440082,440083,25,a8.0012*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+190060,520102,530103,530105,34,a8.0011*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+190072,390098,400104,400105,21,b8.0030_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+190073,390099,400106,400107,21,b8.0029_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+190085,540156,550152,550153,36,b8.0017*,0,0,0
+190086,440132,450135,450136,26,b8.0018*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+190088,400131,410132,410133,22,b8.0032_,0,0,0
+190089,390124,400132,400133,21,b8.0031_,0,0,0
+190092,400139,410142,410143,22,b8.0028*,0,0,Tail Epidermis
+190093,390130,400140,400141,21,b8.0027*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+190101,380137,390146,390147,20,b8.0030*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+190102,370129,380138,380139,19,b8.0029*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+200034,580055,590055,590056,39,b8.0019_,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+200035,460048,470049,470050,27,b8.0020_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+200069,390090,400095,400096,20,b8.0025_,0,0,Tail Epidermis
+200070,400097,410096,410097,21,b8.0026_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+200080,460119,470123,470124,27,b8.0020*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+200081,530141,540141,540142,34,b8.0019*,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+200097,390127,400136,400137,20,b8.0024*,0,Mediolateral Tail Epidermis,Tail Epidermis
+200098,400138,410140,410141,21,b8.0023*,Medio-Lateral Tail Epidermis,0,Tail Epidermis
+200106,400152,410156,410157,21,b8.0032*,0,0,0
+200107,400153,410158,410159,21,b8.0031*,0,0,0
+200108,720275,730277,730278,53,b8.0015*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+200109,740284,750289,750290,55,b8.0016*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+200113,400160,410166,410167,21,b8.0022*,0,0,Tail Epidermis
+200114,400162,410170,410171,21,b8.0021*,0,0,Tail Epidermis
+210064,750153,760158,760159,55,b8.0015_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+210065,750154,760160,760161,55,b8.0016_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+210101,430188,440189,440190,23,b8.0028_,0,0,Tail Epidermis
+210102,410197,420189,420146,21,b8.0027_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+290077,810227,820233,820234,53,b9.0015*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+290078,830237,840239,840240,55,b9.0016*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+300078,820236,830238,830239,53,b9.0013*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+300079,850245,860248,860249,56,b9.0014*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+310032,830092,840093,840094,53,b9.0015_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+310033,880098,0,0,58,b9.0016_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+310034,820094,830094,830095,52,b9.0013_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+310035,840098,850099,850100,54,b9.0014_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+330004,750006,760006,760007,43,a8.0010_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+330005,810008,820008,820009,49,a8.0009_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+340038,770091,780091,780092,44,a8.0010*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+340039,790094,800093,800094,46,a8.0009*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350006,740008,750363,750364,40,a8.0004_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350007,850010,860010,860011,51,a8.0003_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350019,700034,710034,710035,36,a8.0004*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350020,830043,840043,840044,49,a8.0003*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350028,810068,820070,820071,47,a8.0002*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+350029,850398,860397,860406,51,a8.0001*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+360010,750015,760014,760015,40,a9.0032_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+360011,840017,850017,850018,49,a9.0031_,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+360012,660250,670281,670282,31,a9.0016_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+360013,720015,730016,730017,37,a9.0015_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+360014,620015,630015,630016,27,a9.0014_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+360015,690017,700018,700019,34,a9.0013_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+360022,870041,880041,880042,52,a8.0002_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+360023,850041,860042,860043,50,a8.0001_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+360037,800073,810075,810076,45,b8.0002_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+360038,780075,790075,790076,43,b8.0001_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+360055,790114,800114,800115,44,b8.0003_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+360056,770114,780114,780115,42,b8.0004_,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+360065,800143,810146,810147,45,a9.0031*,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+360066,740132,750133,750134,39,a9.0032*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+370029,640220,650225,650226,28,a9.0014*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+370030,700043,710044,710045,34,a9.0013*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+370052,650073,660075,660076,29,a9.0041_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370053,650074,660077,660078,29,a9.0042_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370054,640075,650075,650076,28,a9.0043_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370055,630076,640076,640077,27,a9.0044_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370066,720119,730122,730123,36,a9.0030*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+370067,690110,700112,700113,33,a9.0029*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+370074,640107,650108,650109,28,a9.0041*,Head Epidermis,Trunk Epidermis,Head Epidermis
+370075,640108,650110,650111,28,a9.0042*,Head Epidermis,Trunk Epidermis,Head Epidermis
+370078,810172,820177,820178,45,b8.0003*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+370079,790168,800169,800170,43,b8.0004*,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+370080,650222,660239,660240,29,a9.0045_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370081,650116,660121,660122,29,a9.0046_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370136,650211,660227,660228,29,a9.0047_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370137,640208,650212,650213,28,a9.0048_,Head Epidermis,Trunk Epidermis,Head Epidermis
+370143,800345,810349,810350,44,b8.0001*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+370144,810351,820358,820359,45,b8.0002*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+380009,720010,730010,730011,35,a9.0030_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+380010,690011,700011,700012,32,a9.0029_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+380033,650041,660041,660042,28,a9.0016*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+380034,720049,730052,730053,35,a9.0015*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+380068,660097,670098,670099,29,a9.0055_,Head Epidermis,Trunk Epidermis,Head Epidermis
+380069,660098,670100,670101,29,a9.0056_,Head Epidermis,Trunk Epidermis,Head Epidermis
+380074,690113,700116,700117,32,b9.0009*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+380075,710124,720127,720128,34,b9.0010*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+380078,650106,660110,660111,28,a9.0043*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380079,660112,670115,670116,29,a9.0044*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380098,640132,650135,650136,27,a9.0047*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380099,650137,660144,660145,28,a9.0048*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380100,660146,670153,670154,29,a9.0045*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380101,650139,660147,660148,28,a9.0046*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380110,670169,680183,680184,30,a9.0055*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380111,670170,680185,680186,30,a9.0056*,Head Epidermis,Trunk Epidermis,Head Epidermis
+380138,630191,640192,640193,26,b9.0058*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+380139,640194,650197,650198,27,b9.0057*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+390028,750042,760042,760043,37,b9.0010_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+390029,710038,720038,720039,33,b9.0009_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+390054,700073,710076,710077,32,b9.0041_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+390055,660071,670070,670071,28,b9.0042_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+390068,670096,680100,680101,29,a9.0053_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390069,670097,680102,680103,29,a9.0054_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390094,670137,680146,680147,29,a9.0057_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390095,670138,680148,680149,29,a9.0058_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390096,660135,670139,670140,28,a9.0059_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390097,670141,680152,680153,29,a9.0060_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390111,670167,680179,680180,29,a9.0053*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390112,670168,680181,680182,29,a9.0054*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390115,660164,670171,670172,28,a9.0061_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390116,660165,670173,670174,28,a9.0062_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390117,670175,680191,680192,29,a9.0063_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390118,660167,670176,670177,28,a9.0064_,Head Epidermis,Trunk Epidermis,Head Epidermis
+390125,870282,880287,880288,49,b8.0009*,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+390126,860284,870283,870284,48,b8.0010*,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+390134,660190,670201,670202,28,a9.0062*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390135,650180,660191,660192,27,a9.0061*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390136,660193,670205,670206,28,a9.0064*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390137,660194,670207,670208,28,a9.0063*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390138,650183,660195,660196,27,a9.0057*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390139,660197,670211,670212,28,a9.0058*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390140,670213,680235,680236,29,a9.0060*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390141,670214,680237,680238,29,a9.0059*,Head Epidermis,Trunk Epidermis,Head Epidermis
+390146,670221,680246,680247,29,b9.0060*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+390147,660207,670222,670223,28,b9.0059*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+390153,650203,660216,660217,27,b9.0051*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+390154,650204,660218,660219,27,b9.0052*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+390155,720298,730300,730301,34,b9.0049*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+390156,650206,660221,660222,27,b9.0050*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400057,670072,680073,680074,28,b9.0043_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400058,650072,660073,660074,26,b9.0044_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400068,680094,690094,690095,29,b9.0047_,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400069,670093,680095,680096,28,b9.0048_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400070,700100,710104,710105,31,b9.0045_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400071,670095,680098,680099,28,b9.0046_,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400093,870191,880193,880194,48,b8.0010_,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+400094,870192,880195,880196,48,b8.0009_,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+400095,670129,680135,680136,28,b9.0050_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400096,760171,770173,770174,37,b9.0049_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400104,660137,670142,670143,27,b9.0059_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400105,680156,690159,690160,29,b9.0060_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400106,660139,670145,670146,27,b9.0057_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400107,650134,660140,660141,26,b9.0058_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+400132,670186,680204,680205,28,b9.0061_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400133,670187,680206,680207,28,b9.0062_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+400136,660180,670190,670308,27,b9.0047*,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400137,670191,680211,680212,28,b9.0048*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+400140,650175,660185,660186,26,b9.0054*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+400141,700231,710239,710240,31,b9.0053*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410061,710092,720093,720094,31,b8.0014_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+410062,880128,0,0,48,b8.0013_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+410096,670131,680138,680139,27,b9.0051_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+410097,670132,680140,680141,27,b9.0052_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+410112,880237,0,0,48,b8.0013*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+410113,710183,720187,720188,31,b8.0014*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+410132,670184,680201,680202,27,b9.0063_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410133,680203,690209,690210,28,b9.0064_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410140,700224,710231,710232,30,b9.0045*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410141,690302,700310,700311,29,b9.0046*,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+410142,670193,680214,680215,27,b9.0056*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410143,670195,680216,680217,27,b9.0055*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410156,690247,700251,700252,29,b9.0064*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410157,690248,700253,700254,29,b9.0063*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410158,670217,680241,680242,27,b9.0062*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410159,680243,690251,690252,28,b9.0061*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410166,700270,710279,710280,30,b9.0043*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+410167,670229,680255,680256,27,b9.0044*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+410170,730293,740297,740298,33,b9.0041*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+410171,680258,690268,690269,28,b9.0042*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+420146,710241,720247,720248,30,b9.0053_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+420189,680222,690229,690230,27,b9.0056*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+440031,720042,730044,730045,29,a9.0039_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+440032,670038,680038,680039,24,a9.0040_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+440082,770147,780148,780149,34,a9.0023*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+440083,740138,750140,750141,31,a9.0024*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+440189,690295,700302,700303,26,b9.0055_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+440190,700304,710314,710315,27,b9.0056_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+450017,760023,770023,770024,32,a9.0024_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+450018,790025,800025,800026,35,a9.0023_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+450021,730028,740029,740030,29,a9.0035_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+450022,690025,700027,700028,25,a9.0036_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+450038,700049,710051,710052,26,b9.0035_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+450039,730058,740061,740062,29,b9.0036_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+450135,700206,710212,710213,26,b9.0035*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+450136,730222,740226,740227,29,b9.0036*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+450187,740319,750325,750326,30,a9.0039*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+450188,690288,700294,700295,25,a9.0040*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+460031,740044,750045,750046,29,a9.0037_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+460032,800049,810050,810051,35,a9.0038_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+470044,750067,760068,760069,29,a9.0051_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+470045,740067,750068,750069,28,a9.0052_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+470049,750074,760076,760077,29,b9.0039_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+470050,750075,760078,760079,29,b9.0040_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+470071,760365,770369,770370,30,a9.0033*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+470072,850130,860132,860133,39,a9.0034*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+470107,760178,770181,770182,30,a9.0051*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+470108,750172,760179,760180,29,a9.0052*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+470123,740197,750200,750201,28,b9.0039*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+470124,740198,750202,750203,28,b9.0040*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+480020,760027,770028,770029,29,a9.0033_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+480021,840389,850391,850392,37,a9.0034_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+480052,760080,770082,770083,29,a9.0037*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+480053,810087,820090,820091,34,a9.0038*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+480075,750109,760113,760114,28,a9.0035*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+480076,710099,720101,720102,24,a9.0036*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+490003,880004,0,0,40,a9.0010_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+490004,880005,0,0,40,a9.0009_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+500204,880377,0,0,39,b9.0011*,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+500205,880378,0,0,39,b9.0012*,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+510002,880002,0,0,38,a9.0012_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510003,880003,0,0,38,a9.0011_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510027,880391,0,0,38,a9.0010*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510028,880038,0,0,38,a9.0009*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510029,880039,0,0,38,a9.0012*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510030,880040,0,0,38,a9.0011*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510063,880104,0,0,38,a9.0027*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+510064,880105,0,0,38,a9.0028*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+520049,840073,850073,850074,33,a9.0049_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+520050,880077,0,0,37,a9.0050_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+520119,880205,0,0,37,a9.0050*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+520120,820194,830195,830196,31,a9.0049*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+520217,880387,0,0,37,b9.0012_,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+520222,880388,0,0,37,b9.0011_,"2nd Lineage, Notochord",Mesoderm 2 Notochord,"2nd Lineage, Notochord"
+530103,880404,0,0,36,a9.0022*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+530105,880172,0,0,36,a9.0021*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+530203,880359,0,0,36,a9.0026_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+530204,880360,0,0,36,a9.0025_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+530205,880361,0,0,36,a9.0028_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+530206,880362,0,0,36,a9.0027_,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+530209,880367,0,0,36,a9.0026*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+530210,880368,0,0,36,a9.0025*,"1st Lineage, Notochord",Mesoderm 1 Notochord,"1st Lineage, Notochord"
+540044,880067,0,0,35,b10.0106_,0,0,0
+540045,880068,0,0,35,b9.0034_,2nd Endodermal Lineage,Posterior Endoderm,2nd Endodermal Lineage
+540141,880244,0,0,35,b9.0037*,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+540142,880245,0,0,35,b9.0038*,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+550152,880272,0,0,34,b9.0034*,2nd Endodermal Lineage,Posterior Endoderm,2nd Endodermal Lineage
+550153,880273,0,0,34,b9.0033*,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+570019,880030,0,0,32,a9.0022_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+570020,880031,0,0,32,a9.0021_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+590055,880086,0,0,30,b9.0037_,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+590056,880087,0,0,30,b9.0038_,Posterior Dorsal Neural Plate,Anterior + Dorsal Neural Plate,Posterior Dorsal Neural Plate
+630015,880022,0,0,26,a10.0028_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+630016,880023,0,0,26,a10.0027_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+640076,880124,0,0,25,a10.0087_,Head Epidermis,Trunk Epidermis,Head Epidermis
+640077,880125,0,0,25,a10.0088_,Head Epidermis,Trunk Epidermis,Head Epidermis
+640192,880339,0,0,25,b10.0116*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+640193,880340,0,0,25,b10.0115*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+650075,880122,0,0,24,a10.0085_,Head Epidermis,Trunk Epidermis,Head Epidermis
+650076,880123,0,0,24,a10.0086_,Head Epidermis,Trunk Epidermis,Head Epidermis
+650108,880177,0,0,24,a10.0082*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650109,880178,0,0,24,a10.0081*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650110,880179,0,0,24,a10.0084*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650111,880180,0,0,24,a10.0083*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650135,880229,0,0,24,a10.0094*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650136,880230,0,0,24,a10.0093*,Head Epidermis,Trunk Epidermis,Head Epidermis
+650197,880341,0,0,24,b10.0114*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+650198,880342,0,0,24,b10.0113*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+650212,880365,0,0,24,a10.0095_,Head Epidermis,Trunk Epidermis,Head Epidermis
+650213,880366,0,0,24,a10.0096_,Head Epidermis,Trunk Epidermis,Head Epidermis
+650225,880385,0,0,24,a10.0028*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+650226,880386,0,0,24,a10.0027*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+660041,880063,0,0,23,a10.0032*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+660042,880064,0,0,23,b10.0107_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+660073,880116,0,0,23,b10.0088_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660074,880117,0,0,23,b10.0087_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660075,880118,0,0,23,a10.0081_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660076,880119,0,0,23,a10.0082_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660077,880120,0,0,23,a10.0083_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660078,880121,0,0,23,a10.0084_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660110,880173,0,0,23,a10.0085*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660111,880174,0,0,23,a10.0086*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660121,880191,0,0,23,a10.0091_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660122,880192,0,0,23,a10.0092_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660140,880227,0,0,23,b10.0116_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660141,880228,0,0,23,b10.0115_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660144,880231,0,0,23,a10.0096*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660145,880232,0,0,23,a10.0095*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660147,880235,0,0,23,a10.0092*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660148,880236,0,0,23,a10.0091*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660185,880300,0,0,23,b10.0105*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+660186,880301,0,0,23,b10.0106*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+660191,880310,0,0,23,a10.0121*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660192,880311,0,0,23,a10.0122*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660195,880315,0,0,23,a10.0114*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660196,880316,0,0,23,a10.0113*,Head Epidermis,Trunk Epidermis,Head Epidermis
+660216,880351,0,0,23,b10.0101*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660217,880352,0,0,23,b10.0102*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660218,880353,0,0,23,b10.0103*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660219,880354,0,0,23,b10.0104*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660221,880357,0,0,23,b10.0099*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660222,880358,0,0,23,b10.0100*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+660227,880363,0,0,23,a10.0093_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660228,880364,0,0,23,a10.0094_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660239,880379,0,0,23,a10.0089_,Head Epidermis,Trunk Epidermis,Head Epidermis
+660240,880380,0,0,23,a10.0090_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670070,880112,0,0,22,b10.0083_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+670071,880113,0,0,22,b10.0084_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+670098,880151,0,0,22,a10.0109_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670099,880152,0,0,22,a10.0110_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670100,880153,0,0,22,a10.0111_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670101,880154,0,0,22,a10.0112_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670115,880175,0,0,22,a10.0088*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670116,880176,0,0,22,a10.0087*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670139,880217,0,0,22,a10.0117_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670140,880218,0,0,22,a10.0118_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670142,880221,0,0,22,b10.0117_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670143,880222,0,0,22,b10.0118_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670145,880225,0,0,22,b10.0114_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670146,880226,0,0,22,b10.0113_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670153,880233,0,0,22,a10.0089*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670154,880234,0,0,22,a10.0090*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670171,880263,0,0,22,a10.0121_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670172,880264,0,0,22,a10.0122_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670173,880265,0,0,22,a10.0123_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670174,880266,0,0,22,a10.0124_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670176,880269,0,0,22,a10.0127_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670177,880270,0,0,22,a10.0128_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670190,700220,710227,710336,4,b10.0093*,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+670201,880308,0,0,22,a10.0123*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670202,880309,0,0,22,a10.0124*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670205,880312,0,0,22,a10.0127*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670206,880408,0,0,22,a10.0128*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670207,880313,0,0,22,a10.0125*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670208,880314,0,0,22,a10.0126*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670211,880317,0,0,22,a10.0113_,Head Epidermis,Trunk Epidermis,Head Epidermis
+670212,880318,0,0,22,a10.0116*,Head Epidermis,Trunk Epidermis,Head Epidermis
+670222,880337,0,0,22,b10.0117*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670223,880338,0,0,22,b10.0118*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+670281,880392,0,0,22,a10.0031_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+670282,880393,0,0,22,a10.0032_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+680038,880059,0,0,21,a10.0079_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+680039,880060,0,0,21,a10.0080_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+680073,880114,0,0,21,b10.0085_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680074,880115,0,0,21,b10.0086_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680095,880141,0,0,21,b10.0095_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680096,880142,0,0,21,b10.0096_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680098,880145,0,0,21,b10.0091_,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680099,880146,0,0,21,b10.0092_,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680100,880147,0,0,21,a10.0105_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680101,880148,0,0,21,a10.0106_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680102,880149,0,0,21,a10.0107_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680103,880150,0,0,21,a10.0108_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680135,880197,0,0,21,b10.0100_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680136,880198,0,0,21,b10.0099_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680138,880201,0,0,21,b10.0101_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680139,880202,0,0,21,b10.0102_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680140,880203,0,0,21,b10.0103_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680141,880204,0,0,21,b10.0104_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680146,880212,0,0,21,a10.0114_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680147,880213,0,0,21,a10.0117_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680148,880214,0,0,21,a10.0115_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680149,880215,0,0,21,a10.0116_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680152,880219,0,0,21,a10.0119_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680153,880220,0,0,21,a10.0120_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680179,880255,0,0,21,a10.0105*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680180,880256,0,0,21,a10.0106*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680181,880257,0,0,21,a10.0108*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680182,880258,0,0,21,a10.0107*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680183,880259,0,0,21,a10.0109*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680184,880260,0,0,21,a10.0110*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680185,880261,0,0,21,a10.0111*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680186,880262,0,0,21,a10.0112*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680191,880267,0,0,21,a10.0125_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680192,880268,0,0,21,a10.0126_,Head Epidermis,Trunk Epidermis,Head Epidermis
+680201,880279,0,0,21,b10.0126_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680202,880280,0,0,21,b10.0125_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680204,880283,0,0,21,b10.0122_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680205,880284,0,0,21,b10.0121_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680206,880285,0,0,21,b10.0123_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680207,880286,0,0,21,b10.0124_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680211,880292,0,0,21,b10.0095*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680212,880293,0,0,21,b10.0096*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680214,880296,0,0,21,b10.0109*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680215,880297,0,0,21,b10.0110*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680216,880298,0,0,21,b10.0111*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680217,880299,0,0,21,b10.0112*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+680235,880319,0,0,21,a10.0119*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680236,880320,0,0,21,a10.0120*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680237,880321,0,0,21,a10.0118*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680238,880322,0,0,21,a10.0117*,Head Epidermis,Trunk Epidermis,Head Epidermis
+680241,880327,0,0,21,b10.0123*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680242,880328,0,0,21,b10.0124*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+680246,880335,0,0,21,b10.0120*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680247,880336,0,0,21,b10.0119*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680255,880345,0,0,21,b10.0087*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+680256,880346,0,0,21,b10.0088*,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+690094,880139,0,0,20,b10.0094_,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+690095,880140,0,0,20,b10.0093_,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+690159,880223,0,0,20,b10.0119_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+690160,880224,0,0,20,b10.0120_,Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+690209,880281,0,0,20,b10.0128_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+690210,880282,0,0,20,b10.0127_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+690229,880306,0,0,20,b10.0107_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+690230,880307,0,0,20,b10.0108_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+690251,880329,0,0,20,b10.0122*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+690252,880330,0,0,20,b10.0121*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+690268,880349,0,0,20,b10.0084*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+690269,880350,0,0,20,b10.0083*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+700011,880014,0,0,19,a10.0058_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+700012,880015,0,0,19,a10.0057_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+700018,880024,0,0,19,a10.0026_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+700019,880025,0,0,19,a10.0025_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+700027,880036,0,0,19,a10.0071_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+700028,880037,0,0,19,a10.0072_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+700112,880157,0,0,19,a10.0058*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+700113,880159,0,0,19,a10.0057*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+700116,880164,0,0,19,b10.0017*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+700117,880165,0,0,19,b10.0018*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+700251,880323,0,0,19,b10.0128*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+700252,880324,0,0,19,b10.0127*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+700253,880325,0,0,19,b10.0126*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+700254,880326,0,0,19,b10.0125*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+700294,880371,0,0,19,a10.0079*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+700295,880372,0,0,19,a10.0080*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+700302,880381,0,0,19,b10.0111_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+700303,880382,0,0,19,b10.0112_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+700310,880389,0,0,19,b10.0092*,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+700311,880390,0,0,19,b10.0091*,Medio-Lateral Tail Epidermis,Lateral Tail Epidermis,Tail Epidermis
+710034,880045,0,0,18,a9.0007*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+710035,880046,0,0,18,a9.0008*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+710044,880061,0,0,18,a10.0026*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+710045,880062,0,0,18,a10.0025*,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+710051,880069,0,0,18,b10.0069_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710052,880070,0,0,18,b10.0070_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710076,880110,0,0,18,b10.0082_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710077,880111,0,0,18,b10.0081_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710104,880143,0,0,18,b10.0090_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710105,880144,0,0,18,b10.0089_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710212,880274,0,0,18,b10.0069*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710213,880275,0,0,18,b10.0070*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710227,880291,0,0,18,b10.0093*,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710231,880294,0,0,18,b10.0089*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710232,880295,0,0,18,b10.0090*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710239,880302,0,0,18,b10.0107*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710240,880303,0,0,18,b10.0108*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710279,880343,0,0,18,b10.0085*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710280,880344,0,0,18,b10.0086*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+710314,880383,0,0,18,b10.0109_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710315,880384,0,0,18,b10.0110_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+710336,880394,0,0,18,b10.0094*,Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+720038,880051,0,0,17,b10.0018_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720039,880052,0,0,17,b10.0017_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720093,880126,0,0,17,b9.0027_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720094,880127,0,0,17,b9.0028_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720101,880137,0,0,17,a10.0071*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+720102,880138,0,0,17,a10.0072*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+720127,880166,0,0,17,b10.0020*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720128,880167,0,0,17,b10.0019*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720187,880238,0,0,17,b9.0027*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720188,880239,0,0,17,b9.0028*,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+720247,880304,0,0,17,b10.0105_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+720248,880305,0,0,17,b10.0106_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+730010,880012,0,0,16,a10.0060_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+730011,880013,0,0,16,a10.0059_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+730016,880020,0,0,16,a10.0030_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+730017,880021,0,0,16,a10.0029_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+730044,880057,0,0,16,a10.0077_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+730045,880058,0,0,16,a10.0078_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+730052,880065,0,0,16,b10.0108_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+730053,880066,0,0,16,b10.0105_,Posterior Ventral Neural Plate,Posterior ventral Neural Plate,Posterior Ventral Neural Plate
+730122,880155,0,0,16,a10.0060*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+730123,880156,0,0,16,a10.0059*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+730277,880331,0,0,16,b9.0030*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+730278,880332,0,0,16,b9.0029*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+730300,880355,0,0,16,b10.0097*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+730301,880356,0,0,16,b10.0098*,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+740029,880034,0,0,15,a10.0069_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+740030,880035,0,0,15,a10.0070_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+740061,880071,0,0,15,b10.0071_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+740062,880072,0,0,15,b10.0072_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+740226,880276,0,0,15,b10.0072*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+740227,880277,0,0,15,b10.0071*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+740297,880347,0,0,15,b10.0081*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+740298,880348,0,0,15,b10.0082*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+750045,880053,0,0,14,a10.0074_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+750046,880054,0,0,14,a10.0073_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+750068,880080,0,0,14,a10.0103_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+750069,880081,0,0,14,a10.0104_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+750133,880162,0,0,14,a10.0064*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+750134,880163,0,0,14,a10.0063*,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+750140,880170,0,0,14,a10.0048*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+750141,880171,0,0,14,a10.0047*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+750200,880240,0,0,14,b10.0077*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+750201,880241,0,0,14,b10.0078*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+750202,880242,0,0,14,b10.0079*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+750203,880243,0,0,14,b10.0080*,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+750289,880333,0,0,14,b9.0031*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+750290,880334,0,0,14,b9.0032*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+750325,880369,0,0,14,a10.0077*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+750326,880370,0,0,14,a10.0078*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+750363,880396,0,0,14,a9.0007_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+750364,880397,0,0,14,a9.0008_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+760006,880006,0,0,13,a9.0019_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+760007,880007,0,0,13,a9.0020_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+760014,880016,0,0,13,a10.0064_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+760015,880017,0,0,13,a10.0063_,Posterior Lateral Neural Plate,Lateral Neural Plate,Posterior Lateral Neural Plate
+760042,880049,0,0,13,b10.0020_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+760043,880050,0,0,13,b10.0019_,Mesenchyme,Mesoderm Mesenchyme,Mesenchyme
+760068,880078,0,0,13,a10.0101_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+760069,880079,0,0,13,a10.0102_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+760076,880088,0,0,13,b10.0078_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+760077,880089,0,0,13,b10.0077_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+760078,880090,0,0,13,b10.0079_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+760079,880091,0,0,13,b10.0080_,Midline Tail Epidermis,Midline Tail Epidermis,Tail Epidermis
+760113,880135,0,0,13,a10.0070*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+760114,880136,0,0,13,a10.0069*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+760158,880181,0,0,13,b9.0030_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+760159,880182,0,0,13,b9.0029_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+760160,880183,0,0,13,b9.0031_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+760161,880185,0,0,13,b9.0032_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+760179,880210,0,0,13,a10.0103*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+760180,880211,0,0,13,a10.0104*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+770023,880026,0,0,12,a10.0048_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+770024,880027,0,0,12,a10.0047_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+770028,880032,0,0,12,a10.0066_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+770029,880033,0,0,12,a10.0065_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+770082,880092,0,0,12,a10.0074*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+770083,880093,0,0,12,a10.0073*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+770173,880199,0,0,12,b10.0098_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+770174,880200,0,0,12,b10.0097_,Medio-Lateral Tail Epidermis,Mediolateral Tail Epidermis,Tail Epidermis
+770181,880208,0,0,12,a10.0101*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+770182,880209,0,0,12,a10.0102*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+770369,880398,0,0,12,a10.0065*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+770370,880399,0,0,12,a10.0066*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+780091,880106,0,0,11,a9.0020*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+780092,880107,0,0,11,a9.0019*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+780114,880131,0,0,11,b9.0008_,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+780115,880132,0,0,11,b9.0007_,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+780148,880168,0,0,11,a10.0046*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+780149,880169,0,0,11,a10.0045*,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+790075,880084,0,0,10,b9.0001_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+790076,880085,0,0,10,b9.0002_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+800025,880028,0,0,9,a10.0046_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+800026,880029,0,0,9,a10.0045_,Trunk Lateral Cell,Mesoderm Trunk Lateral Cell,Trunk Lateral Cell
+800093,880108,0,0,9,a9.0018*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+800094,880109,0,0,9,a9.0017*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+800114,880129,0,0,9,b9.0005_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+800115,880130,0,0,9,b9.0006_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+800169,880189,0,0,9,b9.0008*,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+800170,880190,0,0,9,b9.0007*,1st Endodermal Lineage,Posterior Endoderm,1st Endodermal Lineage
+810050,880055,0,0,8,a10.0075_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+810051,880056,0,0,8,a10.0076_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+810075,880082,0,0,8,b9.0003_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+810076,880083,0,0,8,b9.0004_,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+810146,880160,0,0,8,a10.0062*,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+810147,880161,0,0,8,a10.0061*,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+810349,880373,0,0,8,b9.0001*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+810350,880374,0,0,8,b9.0002*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+820008,880008,0,0,7,a9.0018_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+820009,880009,0,0,7,a9.0017_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+820070,880073,0,0,7,a9.0003*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+820071,880074,0,0,7,a9.0004*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+820090,880094,0,0,7,a10.0076*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+820091,880095,0,0,7,a10.0075*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+820177,880187,0,0,7,b9.0006*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+820178,880188,0,0,7,b9.0005*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+820233,880246,0,0,7,b10.0030*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+820234,880247,0,0,7,b10.0029*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+820358,880375,0,0,7,b9.0003*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+820359,880376,0,0,7,b9.0004*,Posterior Head Endoderm,Posterior Endoderm,Head Endoderm
+830094,880099,0,0,6,b10.0026_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+830095,880100,0,0,6,b10.0025_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+830195,880206,0,0,6,a10.0098*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+830196,880207,0,0,6,a10.0097*,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+830238,880250,0,0,6,b10.0026*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+830239,880252,0,0,6,b10.0025*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+840043,880047,0,0,5,a9.0006*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+840044,880048,0,0,5,a9.0005*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+840093,880096,0,0,5,b10.0030_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+840094,880097,0,0,5,b10.0029_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+840239,880248,0,0,5,b10.0031*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+840240,880249,0,0,5,b10.0032*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+850017,880018,0,0,4,a10.0062_,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+850018,880019,0,0,4,a10.0061_,"2nd Lineage, Tail Muscle",Mesoderm Second Muscle,"2nd Lineage, Tail Muscle"
+850073,880075,0,0,4,a10.0097_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+850074,880076,0,0,4,a10.0098_,Anterior Dorsal Neural Plate,Lateral Neural Plate,Anterior Dorsal Neural Plate
+850099,880101,0,0,4,b10.0028_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+850100,880103,0,0,4,b10.0027_,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+850391,880400,0,0,4,a10.0067_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+850392,880401,0,0,4,a10.0068_,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+860010,880010,0,0,3,a9.0006_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+860011,880011,0,0,3,a9.0005_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+860042,880043,0,0,3,a9.0002_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+860043,880044,0,0,3,a9.0001_,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+860132,880133,0,0,3,a10.0068*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+860133,880134,0,0,3,a10.0067*,Anterior Ventral Neural Plate,Anterior + Dorsal Neural Plate,Anterior Ventral Neural Plate
+860248,880253,0,0,3,b10.0027*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+860249,880254,0,0,3,b10.0028*,"1st Lineage, Tail Muscle",Mesoderm First Muscle,"1st Lineage, Tail Muscle"
+860397,880403,0,0,3,a9.0001*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+860406,880410,0,0,3,a9.0002*,Anterior Head Endoderm,Anterior Endoderm,Head Endoderm
+870283,880289,0,0,2,b9.0019*,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
+870284,880290,0,0,2,b9.0020*,Trunk Ventral Cell,Mesoderm Trunk ventral Cell,Trunk Ventral Cell
